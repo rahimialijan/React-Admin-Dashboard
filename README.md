@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Space-Travelers-Hub</b></h3>
+  <h3><b>React Admin Dashboard</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 # 📖 [Space-Travelers-Hub Project] <a name="about-project"></a>
 
-**[Space-Travelers-Hub]** is a react app created using React and Redux front-end library.
+**[React-Admin-Dashboard]** is a react app created using React and Redux front-end library.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone git@github.com:rahimialijan/Space-Travelers-Hub.git
+  git clone https://github.com/rahimialijan/React-Admin-Dashboard.git
   git checkout project-setup
 
 ```
@@ -125,12 +125,6 @@ You can deploy this project using **[Render](https://render.com/)**
 - Twitter: [@AlijanRahimi10](https://twitter.com/AlijanRahimi10)
 - LinkedIn: [Alijan-Rahimi](https://www.linkedin.com/in/alijan-rahimi-18389ab3)
 
-👤 **Alex**
-
-- GitHub: [@githubhandle](https://github.com/AleWaweru/)
-- Twitter: [@twitterhandle](https://twitter.com/ngashalex)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-ng-ang-a-waweru-2b2701180/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -143,7 +137,7 @@ You can deploy this project using **[Render](https://render.com/)**
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rahimialijan/Space-Travelers-Hub/src).
+Feel free to check the [issues page](https://github.com/rahimialijan/React-Admin-Dashboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
