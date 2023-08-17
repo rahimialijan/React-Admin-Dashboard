@@ -1,7 +1,5 @@
-import "./App.css";
-
 function App() {
-  return <div>React admin</div>;
+  return <div className="app">React admin</div>;
 }
 
 export default App;
